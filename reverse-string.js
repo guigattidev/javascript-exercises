@@ -1,7 +1,7 @@
 // Problem:
 // Reverse the string "Hello World!" for "!dlroW olleH" in the simplest possible way.
 
-// Teste:
+// Test:
 describe("reverse string function", function() {
     
   it("it should to reserve the string", function() {

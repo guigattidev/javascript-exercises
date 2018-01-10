@@ -1,7 +1,7 @@
 // Problem:
 // Return the length of the longest word in the argument string.
 
-// Teste:
+// Test:
 describe("longest word function", function() {
     
   it("it should check if is greater than 0", function() {

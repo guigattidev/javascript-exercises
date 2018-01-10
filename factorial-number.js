@@ -1,7 +1,7 @@
 // Problem:
 // Use the function factorialNumber(number) as recursive function to complete the exercise and return the result.
 
-// Teste:
+// Test:
 describe("factorial number function", function() {
     
   it("if the argument equal to 1 should return 1", function() {

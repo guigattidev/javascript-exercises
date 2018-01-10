@@ -1,7 +1,7 @@
 // Problem:
 // Returns true if the string is a Palindrome(sequence of characters which reads the same backward or forward) and false if isn't.
 
-// Teste:
+// Test:
 describe("palindrome verification function", function() {
     
   it("it should check a mexican-fare feline", function() {
