@@ -16,6 +16,6 @@ describe("palindrome verification function", function() {
 
 // Solution:
 function palindromeVerification(string) {
-  var changed = string.toLowerCase().replace(/[\W_]/g, '');
-  return changed.split('').reverse().join('') === changed;
+  var result = string.toLowerCase().replace(/[\W_]/g, '');
+  return result.split('').reverse().join('') === result;
 }
