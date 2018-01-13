@@ -16,5 +16,5 @@ describe("longest word function", function() {
 
 // Solution:
 function longestWord(string) {
-  return string.split(' ').sort(function (a, b) { return b.length - a.length; })[0].length;
+  return string.split(" ").sort(function(a, b) { return b.length - a.length; })[0].length;
 }
