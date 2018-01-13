@@ -16,9 +16,5 @@ describe("factorial number function", function() {
 
 // Solution:
 function factorialNumber(number) {
-    if (number === 0) {
-        return 1
-    } else {
-        return number * factorialNumber(number - 1)
-    }
+  return (number === 0) ? 1 : number * factorialNumber(number - 1);
 }
