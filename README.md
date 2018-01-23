@@ -1,7 +1,7 @@
 # Javascript exercises
 :books: :muscle: No brain no gain. Collection of exercises to solve using the javascript language, technologies, frameworks or libraries:
 * Learn more
-* Faster development
+* Improve development
 * Less bugs
 
 ## List of exercises
