@@ -1,5 +1,5 @@
 # Javascript exercises
-No brain no gain. Collection of exercises to solve using the javascript language, technologies, frameworks or libraries:
+:rabbit::computer: No brain no gain. Collection of exercises to solve using the javascript language, technologies, frameworks or libraries:
 * Learn more
 * Faster development
 * Less bugs
