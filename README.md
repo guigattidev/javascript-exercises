@@ -1,6 +1,6 @@
 ## :rocket: Javascript exercises
 
-No brain no gain. Collection of exercises to solved using vanilla javascript. Regular code exercises can improve:
+No brain, no gain. Collection of exercises solved using vanilla javascript. Regular code exercises can improve:
 - Learn more
 - Improve development
 - Less bugs
