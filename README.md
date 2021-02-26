@@ -3,7 +3,7 @@
 No brain no gain. Collection of exercises to solved using vanilla javascript. Regular code exercises can improve:
 - Learn more
 - Improve development
-= Less bugs
+- Less bugs
 
 ## :books: List of exercises
 
