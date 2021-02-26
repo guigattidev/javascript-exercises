@@ -1,11 +1,11 @@
-## Javascript exercises
+## :rocket: Javascript exercises
 
 No brain no gain. Collection of exercises to solved using vanilla javascript. Regular code exercises can improve:
 - Learn more
 - Improve development
 = Less bugs
 
-## List of exercises
+## :books: List of exercises
 
 1. Factorial number
 2. Reverse string
