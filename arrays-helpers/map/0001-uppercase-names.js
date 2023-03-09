@@ -1,4 +1,4 @@
-// Exercício:
+// Problema:
 /*
     Suponha que temos um array de objetos que representam 
     produtos em uma loja, com as seguintes propriedades: 
@@ -7,6 +7,7 @@
     alta.
 */
 
+// Solução:
 const products = [
   { id: 1, name: "Camiseta", description: "Camiseta de algodão", price: 29.99 },
   { id: 2, name: "Calça", description: "Calça jeans", price: 59.99 },
